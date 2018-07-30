@@ -150,12 +150,14 @@
     <ClCompile Include="Accum.cpp" />
     <ClCompile Include="Cat.cpp" />
     <ClCompile Include="MirAPP.cpp" />
+    <ClCompile Include="Resource.cpp" />
     <ClCompile Include="Tweeter.cpp" />
     <ClCompile Include="Utility.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Accum.h" />
     <ClInclude Include="Cat.h" />
+    <ClInclude Include="Resource.h" />
     <ClInclude Include="Tweeter.h" />
     <ClInclude Include="Utility.h" />
   </ItemGroup>
